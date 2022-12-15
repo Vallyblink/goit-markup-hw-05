@@ -260,7 +260,7 @@ ul{
    height: 100%;
    top: 0px;
    background-color: rgba(0, 0, 0, 0.2);
-   transition: opaciti 300ms var(--cubic-bezier), visibility 300ms var(--cubic-bezier);
+   transition: opaciti 300ms var(--cub), visibility 300ms var(--cub);
      }
    
     
@@ -274,7 +274,7 @@ ul{
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%) scale(1);
-   transition: transform 300ms var(--cubic-bezier);
+   transition: transform 300ms var(--cub);
    
    }
    
